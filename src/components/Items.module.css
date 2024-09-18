@@ -1,0 +1,11 @@
+.hr-item {
+    /* background-color: khaki; */
+  }
+  .span-tag{
+    color: orange;
+    font-weight: 900;
+  }
+
+  .button {
+    float: right;
+  }
